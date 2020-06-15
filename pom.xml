@@ -4,7 +4,7 @@
   <artifactId>Day1-Spring4AnnotationDemo</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <properties>
-  	<springframework.version>4.1.4.RELEASE</springframework.version>
+  	<springframework.version>5.2.7.RELEASE</springframework.version>
   </properties>
   
   <dependencies>
